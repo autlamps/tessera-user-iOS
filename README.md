@@ -1,5 +1,8 @@
-# tessera-user-iOS
-iOS user app
+# Project Name
+
+Project Tessera: Shuttle project
+
+## Installation
 
 1. Clone or Download all the files
 2. Unzip all the files
@@ -7,3 +10,7 @@ iOS user app
 4. Run "pod install"
 5. Run "AUT Shuttle.xcworkspace"
 6. Build the project
+
+## Credits
+
+The Ton Le
